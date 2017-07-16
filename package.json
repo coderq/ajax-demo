@@ -1,0 +1,30 @@
+{
+  "name": "ajax-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderq/ajax-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderq/ajax-demo/issues"
+  },
+  "homepage": "https://github.com/coderq/ajax-demo#readme",
+  "dependencies": {
+    "async-busboy": "^0.6.1",
+    "formidable": "^1.1.1",
+    "koa": "^2.3.0",
+    "koa-csrf": "^3.0.6",
+    "koa-generic-session": "^2.0.0",
+    "koa-route": "^3.2.0",
+    "koa-static": "^4.0.1",
+    "koa-views": "^6.0.2",
+    "swig": "^1.4.2"
+  }
+}
